@@ -40,7 +40,6 @@
 🛠️ My Favorite Tools
 
 <br/>
-<br/>
 
 👨‍💻 Programming Languages
 
