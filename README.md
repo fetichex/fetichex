@@ -47,8 +47,8 @@
 <a href="www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 
 <br/>
-    
-    🧰 Frameworks and Libraries
+
+🧰 Frameworks and Libraries
 
   <p>
       <a href="https://vitejs.dev"><img alt="Vite" src="https://img.shields.io/badge/Vite%20-%23000000.svg?style=for-the-badge&logo=vite&logoColor=yellow" target="_blank"></a>
