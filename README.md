@@ -7,7 +7,7 @@
    <br/>
 
  <p align="center">
-    <a href="https://github.com/fetichex">
+    <a>
       <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Industrial+Product+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
     </a>
   </p>
