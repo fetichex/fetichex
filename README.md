@@ -39,7 +39,8 @@
 <h2 align="center">
 🛠️ My Favorite Tools
 
-<br/>
+  <br/>
+  <br/>
 
 👨‍💻 Programming Languages
 
