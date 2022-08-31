@@ -1,4 +1,4 @@
-<h1 align="center">
+<div align="center">
   Hi, I'm Diego Cano!
     <a href="https://github.com/feticheX" target="_self">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -6,12 +6,9 @@
 
    <br/>
 
- <p align="center">
     <a>
       <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Industrial+Product+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
     </a>
-  </p>
-</h1>
 
 <pre>
   💻 I am a Full Stack Developer and  a self taught game developer
@@ -24,19 +21,13 @@
 
 <br/>
 
-<p align="center">
 🤝 Connect with me
-  <p align="center">
     <a href="mailto:diegocanomera.@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
     <a href="https://www.linkedin.com/in/diego-cano-mera/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
-  </p>
-</p>
 
 <br/>
 <hr/>
 <br/>
-
-<h2 align="center">
 
 👨‍💻 Programming Languages
 
@@ -113,4 +104,4 @@
   <p align="center">
       <img src="https://activity-graph.herokuapp.com/graph?username=feticheX&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="feticheX">
   </p>
-</h2>
+</div>
