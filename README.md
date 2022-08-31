@@ -34,18 +34,23 @@
 
 <br/>
 <hr/>
-<br/>  
+<br/>
+  
+<h2 align="center">
+🛠️ My Favorite Tools
 
-<h2 align="center"> 
-  
-👨‍💻 Programming Languages  
-  
+<br/>
+
+👨‍💻 Programming Languages
+
   <p>
 <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23FFd60A.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
       <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23327FC7.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
       <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" target="_blank"></a>
-<a href="www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>  
-    
+<a href="www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
+
+  <br/>
+
 🧰 Frameworks and Libraries
 
   <p>
@@ -64,7 +69,7 @@
       <a href="https://chakra-ui.com"><img alt="Chakra-ui" src="https://img.shields.io/badge/Chakra%20ui-%2306d6a0.svg?style=for-the-badge&logo=chakraui&logoColor=white&" target="_blank"></a>
       <a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" target="_blank"></a>
 <br/>
-      <a href="https://love2d.org"><img alt="LÖVE" src="https://img.shields.io/badge/LÖVE%20-%23FF006E.svg?style=for-the-badge&logo=LÖVE&logoColor=white" target="_blank"></a>
+      <a href="https://love2d.org"><img alt="LÖVE" src="https://img.shields.io/badge/LÖVE%20-%23FF006E.svg?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
   </p>
 
   <br/>
@@ -75,7 +80,7 @@
       <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23003566.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
       <a href="https://www.mongodb.com"><img alt="Mongo" src ="https://img.shields.io/badge/MongoDB-%2334A853.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
       <a href="https://firebase.google.com"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"></a>
-[](https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+      <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
   </p>
 
   <br/>
