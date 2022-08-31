@@ -50,7 +50,8 @@
       <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" target="_blank"></a>
 <a href="www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 
-  <br/>
+    <br/>
+    <br/>
 
 🧰 Frameworks and Libraries
 
@@ -72,7 +73,8 @@
 <br/>
       <a href="https://love2d.org"><img alt="LÖVE" src="https://img.shields.io/badge/LÖVE%20-%23FF006E.svg?style=for-the-badge&logo=love&logoColor=white" target="_blank"></a>
   </p>
-
+  
+  <br/>
   <br/>
 
 🗄️ Databases and Cloud Hosting
@@ -84,6 +86,7 @@
       <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
   </p>
 
+  <br/>
   <br/>
 
 💻 Software and Tools
