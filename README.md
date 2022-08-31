@@ -24,13 +24,13 @@
 
 <br/>
 
-<h2 align="center">
+<p align="center">
 🤝 Connect with me
   <p>
     <a href="mailto:diegocanomera.@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
     <a href="https://www.linkedin.com/in/diego-cano-mera/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
   </p>
-</h2>
+</p>
 
 <br/>
 <hr/>
@@ -39,6 +39,7 @@
 <h2 align="center">
 🛠️ My Favorite Tools
 
+<br/>
 <br/>
 
 👨‍💻 Programming Languages
@@ -49,8 +50,8 @@
       <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" target="_blank"></a>
 <a href="www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 
-    <br/>
-    <br/>
+<br/>
+<br/>
 
 🧰 Frameworks and Libraries
 
