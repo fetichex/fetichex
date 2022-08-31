@@ -35,12 +35,8 @@
 <br/>
 <hr/>
 <br/>
-  
-<h2 align="center">
-🛠️ My Favorite Tools
 
-<br/>
-<br/>
+<h2 align="center">
 
 👨‍💻 Programming Languages
 
