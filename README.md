@@ -24,7 +24,7 @@
 
 <br/>
 
-<p align="center" size=24>
+<p align="center">
 🤝 Connect with me
   <p align="center">
     <a href="mailto:diegocanomera.@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
@@ -102,7 +102,7 @@
 <hr/>
 <br/>
   
-  <summary><b>⚡ feticheX's Stats</b></summary>
+  <summary><b>⚡ Diego's Stats</b></summary>
 
 <br/>
 
