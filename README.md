@@ -47,8 +47,7 @@
 <a href="www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 
 <br/>
-<br/>
-
+    
 🧰 Frameworks and Libraries
 
   <p>
@@ -71,8 +70,7 @@
   </p>
   
   <br/>
-  <br/>
-
+  
 🗄️ Databases and Cloud Hosting
 
   <p>
@@ -81,10 +79,9 @@
       <a href="https://firebase.google.com"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"></a>
       <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
   </p>
-
+  
   <br/>
-  <br/>
-
+  
 💻 Software and Tools
 
   <p>
