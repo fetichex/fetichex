@@ -47,7 +47,7 @@
 <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23FFd60A.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
       <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23327FC7.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
       <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" target="_blank"></a>
-<a href="www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
+<a href="http://www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2303045E.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 
   <br/>
 
