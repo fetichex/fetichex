@@ -69,7 +69,7 @@
       <a href="https://chakra-ui.com"><img alt="Chakra-ui" src="https://img.shields.io/badge/Chakra%20ui-%2306d6a0.svg?style=for-the-badge&logo=chakraui&logoColor=white&" target="_blank"></a>
       <a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" target="_blank"></a>
 <br/>
-      <a href="https://love2d.org"><img alt="LÖVE" src="https://img.shields.io/badge/LÖVE%20-%23FF006E.svg?style=for-the-badge&logo=LÖVE&logoColor=white" target="_blank"></a>
+      <a href="https://love2d.org"><img alt="LÖVE" src="https://img.shields.io/badge/LÖVE%20-%23FF006E.svg?style=for-the-badge&logo=love&logoColor=white" target="_blank"></a>
   </p>
 
   <br/>
