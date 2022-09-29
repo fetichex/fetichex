@@ -99,21 +99,6 @@
 <br/>
 <hr/>
 <br/>
-  
-  <summary><b>⚡ feticheX's Stats</b></summary>
-
-<br/>
-
-  <p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=feticheX&show_icons=true" alt="feticheX">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=feticheX" alt="feticheX">
-  </p>
-
-<br/>
-
-  <summary><b>⚡ Activity graph</b></summary>
-
-<br/>
 
   <p align="center">
       <img src="https://activity-graph.herokuapp.com/graph?username=feticheX&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="feticheX">
