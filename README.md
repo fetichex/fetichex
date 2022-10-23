@@ -35,7 +35,6 @@
 </h2>
 
 <br/>
-<hr/>
 <br/>
   
 <h2 align="center">
